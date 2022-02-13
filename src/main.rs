@@ -37,6 +37,6 @@ fn main() {
     println!("Com3 is re {} im {}", com3.re, com3.im)
 }
 
-fn read_file(path: &str) -> String {
-    std::fs::read_to_string(path).unwrap()
-}
+// fn read_file(path: &str) -> String {
+//     std::fs::read_to_string(path).unwrap()
+// }
