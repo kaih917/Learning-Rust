@@ -2,7 +2,7 @@ mod shape;
 mod type_trait;
 mod complex_type;
 
-use std::string::String;
+// use std::string::String;
 use shape::square::Square;
 use shape::triangle::Triangle;
 use shape::run::Run;
